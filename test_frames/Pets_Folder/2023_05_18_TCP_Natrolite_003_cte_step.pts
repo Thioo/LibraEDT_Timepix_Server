@@ -1,0 +1,132 @@
+#Operator:		Moussa
+#Date:		2023_05_18
+#Emission Current (uA):		0.80
+#Spot Size (nm):		4.00
+#Camera Length (mm):		115.20
+#Exposure Time(ms):		500
+#Average Time per Frame (ms):		000
+#Rotation Speed (%)_		50%
+#Rotation Speed (Deg/s):		1.46
+#Starting Angle: (Deg/s):		35.00
+#Ending Angle (Deg/s):		-36.00
+#Oscillation Range (Deg):		0.77
+
+
+
+
+lambda	0.033500
+aperpixel	0.007437
+geometry	continuous
+detector	asitmp
+center AUTO
+centermode friedelpairs 1
+beamstop no
+dstarmax	1.8500
+dstarmaxps	1.8500
+dstarmin	0.0500
+phi	0.385869
+omega	12.00000 0 1
+pixelsize	0.0055
+bin	1
+i/sigma	10.00	10.00
+noiseparameters	2.0000	0.0000
+errormodel	1.0000	0.0000	0.0000	0*****
+skipsaturated yes
+reflectionsize	8.0
+peaksearchmode	auto
+saturationlimit	11000
+imagelist
+"../00001_float.tiff"	34.61	#34.29
+"../00002_float.tiff"	33.84	#35.71
+"../00003_float.tiff"	33.07	#37.12
+"../00004_float.tiff"	32.30	#38.54
+"../00005_float.tiff"	31.53	#39.95
+"../00006_float.tiff"	30.76	#41.37
+"../00007_float.tiff"	29.98	#42.78
+"../00008_float.tiff"	29.21	#44.20
+"../00009_float.tiff"	28.44	#45.61
+"../00010_float.tiff"	27.67	#47.03
+"../00011_float.tiff"	26.90	#48.44
+"../00012_float.tiff"	26.13	#49.85
+"../00013_float.tiff"	25.35	#51.27
+"../00014_float.tiff"	24.58	#52.68
+"../00015_float.tiff"	23.81	#54.10
+"../00016_float.tiff"	23.04	#55.51
+"../00017_float.tiff"	22.27	#56.93
+"../00018_float.tiff"	21.49	#58.34
+"../00019_float.tiff"	20.72	#59.76
+"../00020_float.tiff"	19.95	#61.17
+"../00021_float.tiff"	19.18	#62.59
+"../00022_float.tiff"	18.41	#64.00
+"../00023_float.tiff"	17.64	#65.42
+"../00024_float.tiff"	16.86	#66.83
+"../00025_float.tiff"	16.09	#68.25
+"../00026_float.tiff"	15.32	#69.66
+"../00027_float.tiff"	14.55	#71.08
+"../00028_float.tiff"	13.78	#72.49
+"../00029_float.tiff"	13.01	#73.91
+"../00030_float.tiff"	12.23	#75.32
+"../00031_float.tiff"	11.46	#76.74
+"../00032_float.tiff"	10.69	#78.15
+"../00033_float.tiff"	9.92	#79.56
+"../00034_float.tiff"	9.15	#80.98
+"../00035_float.tiff"	8.38	#82.39
+"../00036_float.tiff"	7.60	#83.81
+"../00037_float.tiff"	6.83	#85.22
+"../00038_float.tiff"	6.06	#86.64
+"../00039_float.tiff"	5.29	#88.05
+"../00040_float.tiff"	4.52	#89.47
+"../00041_float.tiff"	3.74	#90.88
+"../00042_float.tiff"	2.97	#92.30
+"../00043_float.tiff"	2.20	#93.71
+"../00044_float.tiff"	1.43	#95.13
+"../00045_float.tiff"	0.66	#96.54
+"../00046_float.tiff"	-0.11	#97.96
+"../00047_float.tiff"	-0.89	#99.37
+"../00048_float.tiff"	-1.66	#100.79
+"../00049_float.tiff"	-2.43	#102.20
+"../00050_float.tiff"	-3.20	#103.62
+"../00051_float.tiff"	-3.97	#105.03
+"../00052_float.tiff"	-4.74	#106.45
+"../00053_float.tiff"	-5.52	#107.86
+"../00054_float.tiff"	-6.29	#109.27
+"../00055_float.tiff"	-7.06	#110.69
+"../00056_float.tiff"	-7.83	#112.10
+"../00057_float.tiff"	-8.60	#113.52
+"../00058_float.tiff"	-9.37	#114.93
+"../00059_float.tiff"	-10.15	#116.35
+"../00060_float.tiff"	-10.92	#117.76
+"../00061_float.tiff"	-11.69	#119.18
+"../00062_float.tiff"	-12.46	#120.59
+"../00063_float.tiff"	-13.23	#122.01
+"../00064_float.tiff"	-14.01	#123.42
+"../00065_float.tiff"	-14.78	#124.84
+"../00066_float.tiff"	-15.55	#126.25
+"../00067_float.tiff"	-16.32	#127.67
+"../00068_float.tiff"	-17.09	#129.08
+"../00069_float.tiff"	-17.86	#130.50
+"../00070_float.tiff"	-18.64	#131.91
+"../00071_float.tiff"	-19.41	#133.33
+"../00072_float.tiff"	-20.18	#134.74
+"../00073_float.tiff"	-20.95	#136.16
+"../00074_float.tiff"	-21.72	#137.57
+"../00075_float.tiff"	-22.49	#138.98
+"../00076_float.tiff"	-23.27	#140.40
+"../00077_float.tiff"	-24.04	#141.81
+"../00078_float.tiff"	-24.81	#143.23
+"../00079_float.tiff"	-25.58	#144.64
+"../00080_float.tiff"	-26.35	#146.06
+"../00081_float.tiff"	-27.12	#147.47
+"../00082_float.tiff"	-27.90	#148.89
+"../00083_float.tiff"	-28.67	#150.30
+"../00084_float.tiff"	-29.44	#151.72
+"../00085_float.tiff"	-30.21	#153.13
+"../00086_float.tiff"	-30.98	#154.55
+"../00087_float.tiff"	-31.76	#155.96
+"../00088_float.tiff"	-32.53	#157.38
+"../00089_float.tiff"	-33.30	#158.79
+"../00090_float.tiff"	-34.07	#160.21
+"../00091_float.tiff"	-34.84	#161.62
+"../00092_float.tiff"	-35.61	#163.04
+"../00093_float.tiff"	-36.39	#164.45
+endimagelist

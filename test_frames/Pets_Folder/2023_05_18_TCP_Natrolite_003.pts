@@ -1,0 +1,132 @@
+#Operator:		Moussa
+#Date:		2023_05_18
+#Emission Current (uA):		0.80
+#Spot Size (nm):		4.00
+#Camera Length (mm):		115.20
+#Exposure Time(ms):		500
+#Average Time per Frame (ms):		000
+#Rotation Speed (%)_		50%
+#Rotation Speed (Deg/s):		1.46
+#Starting Angle: (Deg/s):		35.00
+#Ending Angle (Deg/s):		-36.00
+#Oscillation Range (Deg):		0.77
+
+
+
+
+lambda	0.033500
+aperpixel	0.007437
+geometry	continuous
+detector	asitmp
+center AUTO
+centermode friedelpairs 1
+beamstop no
+dstarmax	1.8500
+dstarmaxps	1.8500
+dstarmin	0.0500
+phi	0.385869
+omega	12.00000 0 1
+pixelsize	0.0055
+bin	1
+i/sigma	10.00	10.00
+noiseparameters	2.0000	0.0000
+errormodel	1.0000	0.0000	0.0000	0*****
+skipsaturated yes
+reflectionsize	8.0
+peaksearchmode	auto
+saturationlimit	11000
+imagelist
+"../00001.tiff"	34.56	#DeltaAlpha(0.00000)	RotationSpeed(0.00)
+"../00002.tiff"	33.85	#DeltaAlpha(0.71085)	RotationSpeed(0.00)
+"../00003.tiff"	33.14	#DeltaAlpha(0.70995)	RotationSpeed(0.00)
+"../00004.tiff"	32.43	#DeltaAlpha(0.71085)	RotationSpeed(0.00)
+"../00005.tiff"	31.54	#DeltaAlpha(0.88811)	RotationSpeed(0.00)
+"../00006.tiff"	30.83	#DeltaAlpha(0.70996)	RotationSpeed(0.00)
+"../00007.tiff"	30.12	#DeltaAlpha(0.71085)	RotationSpeed(0.00)
+"../00008.tiff"	29.24	#DeltaAlpha(0.88811)	RotationSpeed(0.00)
+"../00009.tiff"	28.53	#DeltaAlpha(0.70995)	RotationSpeed(0.00)
+"../00010.tiff"	27.82	#DeltaAlpha(0.71085)	RotationSpeed(0.00)
+"../00011.tiff"	27.11	#DeltaAlpha(0.70995)	RotationSpeed(0.00)
+"../00012.tiff"	26.22	#DeltaAlpha(0.88811)	RotationSpeed(0.00)
+"../00013.tiff"	25.51	#DeltaAlpha(0.71085)	RotationSpeed(0.00)
+"../00014.tiff"	24.80	#DeltaAlpha(0.71085)	RotationSpeed(0.00)
+"../00015.tiff"	23.91	#DeltaAlpha(0.88722)	RotationSpeed(0.00)
+"../00016.tiff"	23.20	#DeltaAlpha(0.71085)	RotationSpeed(0.00)
+"../00017.tiff"	22.49	#DeltaAlpha(0.71085)	RotationSpeed(0.00)
+"../00018.tiff"	21.78	#DeltaAlpha(0.70995)	RotationSpeed(0.00)
+"../00019.tiff"	20.89	#DeltaAlpha(0.88812)	RotationSpeed(0.00)
+"../00020.tiff"	20.18	#DeltaAlpha(0.71085)	RotationSpeed(0.00)
+"../00021.tiff"	19.47	#DeltaAlpha(0.70995)	RotationSpeed(0.00)
+"../00022.tiff"	18.76	#DeltaAlpha(0.71085)	RotationSpeed(0.00)
+"../00023.tiff"	17.87	#DeltaAlpha(0.88722)	RotationSpeed(0.00)
+"../00024.tiff"	17.16	#DeltaAlpha(0.71085)	RotationSpeed(0.00)
+"../00025.tiff"	16.45	#DeltaAlpha(0.71085)	RotationSpeed(0.00)
+"../00026.tiff"	15.56	#DeltaAlpha(0.88811)	RotationSpeed(0.00)
+"../00027.tiff"	14.85	#DeltaAlpha(0.70995)	RotationSpeed(0.00)
+"../00028.tiff"	14.14	#DeltaAlpha(0.71085)	RotationSpeed(0.00)
+"../00029.tiff"	13.43	#DeltaAlpha(0.70995)	RotationSpeed(0.00)
+"../00030.tiff"	11.83	#DeltaAlpha(1.59897)	RotationSpeed(0.00)
+"../00031.tiff"	11.12	#DeltaAlpha(0.70995)	RotationSpeed(0.00)
+"../00032.tiff"	10.41	#DeltaAlpha(0.71085)	RotationSpeed(0.00)
+"../00033.tiff"	9.52	#DeltaAlpha(0.88812)	RotationSpeed(0.00)
+"../00034.tiff"	8.81	#DeltaAlpha(0.70995)	RotationSpeed(0.00)
+"../00035.tiff"	8.10	#DeltaAlpha(0.71085)	RotationSpeed(0.00)
+"../00036.tiff"	7.39	#DeltaAlpha(0.70995)	RotationSpeed(0.00)
+"../00037.tiff"	6.50	#DeltaAlpha(0.88812)	RotationSpeed(0.00)
+"../00038.tiff"	5.79	#DeltaAlpha(0.71085)	RotationSpeed(0.00)
+"../00039.tiff"	5.08	#DeltaAlpha(0.71085)	RotationSpeed(0.00)
+"../00040.tiff"	4.19	#DeltaAlpha(0.88722)	RotationSpeed(0.00)
+"../00041.tiff"	3.48	#DeltaAlpha(0.71085)	RotationSpeed(0.00)
+"../00042.tiff"	2.77	#DeltaAlpha(0.70995)	RotationSpeed(0.00)
+"../00043.tiff"	2.06	#DeltaAlpha(0.71085)	RotationSpeed(0.00)
+"../00044.tiff"	1.17	#DeltaAlpha(0.88812)	RotationSpeed(0.00)
+"../00045.tiff"	0.46	#DeltaAlpha(0.71085)	RotationSpeed(0.00)
+"../00046.tiff"	-0.25	#DeltaAlpha(0.70995)	RotationSpeed(0.00)
+"../00047.tiff"	-0.96	#DeltaAlpha(0.71085)	RotationSpeed(0.00)
+"../00048.tiff"	-1.85	#DeltaAlpha(0.88722)	RotationSpeed(0.00)
+"../00049.tiff"	-2.56	#DeltaAlpha(0.71085)	RotationSpeed(0.00)
+"../00050.tiff"	-3.27	#DeltaAlpha(0.71085)	RotationSpeed(0.00)
+"../00051.tiff"	-3.98	#DeltaAlpha(0.70995)	RotationSpeed(0.00)
+"../00052.tiff"	-4.69	#DeltaAlpha(0.71085)	RotationSpeed(0.00)
+"../00053.tiff"	-5.58	#DeltaAlpha(0.88812)	RotationSpeed(0.00)
+"../00054.tiff"	-6.29	#DeltaAlpha(0.70995)	RotationSpeed(0.00)
+"../00055.tiff"	-7.00	#DeltaAlpha(0.71085)	RotationSpeed(0.00)
+"../00056.tiff"	-7.89	#DeltaAlpha(0.88812)	RotationSpeed(0.00)
+"../00057.tiff"	-8.60	#DeltaAlpha(0.70995)	RotationSpeed(0.00)
+"../00058.tiff"	-9.31	#DeltaAlpha(0.71085)	RotationSpeed(0.00)
+"../00059.tiff"	-10.19	#DeltaAlpha(0.88812)	RotationSpeed(0.00)
+"../00060.tiff"	-10.90	#DeltaAlpha(0.70995)	RotationSpeed(0.00)
+"../00061.tiff"	-11.61	#DeltaAlpha(0.71085)	RotationSpeed(0.00)
+"../00062.tiff"	-12.32	#DeltaAlpha(0.70995)	RotationSpeed(0.00)
+"../00063.tiff"	-13.21	#DeltaAlpha(0.88812)	RotationSpeed(0.00)
+"../00064.tiff"	-13.92	#DeltaAlpha(0.71085)	RotationSpeed(0.00)
+"../00065.tiff"	-14.63	#DeltaAlpha(0.71085)	RotationSpeed(0.00)
+"../00066.tiff"	-15.34	#DeltaAlpha(0.70995)	RotationSpeed(0.00)
+"../00067.tiff"	-16.23	#DeltaAlpha(0.88811)	RotationSpeed(0.00)
+"../00068.tiff"	-16.94	#DeltaAlpha(0.71085)	RotationSpeed(0.00)
+"../00069.tiff"	-17.65	#DeltaAlpha(0.70995)	RotationSpeed(0.00)
+"../00070.tiff"	-18.36	#DeltaAlpha(0.71086)	RotationSpeed(0.00)
+"../00071.tiff"	-19.25	#DeltaAlpha(0.88811)	RotationSpeed(0.00)
+"../00072.tiff"	-19.96	#DeltaAlpha(0.70995)	RotationSpeed(0.00)
+"../00073.tiff"	-20.67	#DeltaAlpha(0.71085)	RotationSpeed(0.00)
+"../00074.tiff"	-21.56	#DeltaAlpha(0.88812)	RotationSpeed(0.00)
+"../00075.tiff"	-22.27	#DeltaAlpha(0.70995)	RotationSpeed(0.00)
+"../00076.tiff"	-22.98	#DeltaAlpha(0.71085)	RotationSpeed(0.00)
+"../00077.tiff"	-23.69	#DeltaAlpha(0.70995)	RotationSpeed(0.00)
+"../00078.tiff"	-24.58	#DeltaAlpha(0.88811)	RotationSpeed(0.00)
+"../00079.tiff"	-25.29	#DeltaAlpha(0.71085)	RotationSpeed(0.00)
+"../00080.tiff"	-26.00	#DeltaAlpha(0.70995)	RotationSpeed(0.00)
+"../00081.tiff"	-26.71	#DeltaAlpha(0.71085)	RotationSpeed(0.00)
+"../00082.tiff"	-27.60	#DeltaAlpha(0.88811)	RotationSpeed(0.00)
+"../00083.tiff"	-28.31	#DeltaAlpha(0.70995)	RotationSpeed(0.00)
+"../00084.tiff"	-29.02	#DeltaAlpha(0.71085)	RotationSpeed(0.00)
+"../00085.tiff"	-29.73	#DeltaAlpha(0.70995)	RotationSpeed(0.00)
+"../00086.tiff"	-30.62	#DeltaAlpha(0.88812)	RotationSpeed(0.00)
+"../00087.tiff"	0.00	#DeltaAlpha(30.61886)	RotationSpeed(0.00)
+"../00088.tiff"	-32.04	#DeltaAlpha(32.04056)	RotationSpeed(0.00)
+"../00089.tiff"	-32.75	#DeltaAlpha(0.70995)	RotationSpeed(0.00)
+"../00090.tiff"	-33.64	#DeltaAlpha(0.88812)	RotationSpeed(0.00)
+"../00091.tiff"	-34.35	#DeltaAlpha(0.71085)	RotationSpeed(0.00)
+"../00092.tiff"	-35.06	#DeltaAlpha(0.70995)	RotationSpeed(0.00)
+"../00093.tiff"	-35.77	#DeltaAlpha(0.71085)	RotationSpeed(0.00)
+endimagelist
