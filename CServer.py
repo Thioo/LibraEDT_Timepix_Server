@@ -167,7 +167,7 @@ class CServer:
                 self.cameraObject.grab_image_from_detector()
 
                 # using tiff file writter, save the image contained in self.img_raw as a 16bit tiff file
-                tifffile.imwrite("test_data/single_img.tiff", self.cameraObject.img_data, dtype=np.uint16)
+                # tifffile.imwrite("test_data/single_img.tiff", self.cameraObject.img_data, dtype=np.uint16)
 
 
         # This is the main loop of the server
