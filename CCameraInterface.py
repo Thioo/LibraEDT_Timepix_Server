@@ -179,4 +179,4 @@ class CCameraInterface:
     def correctCross(self, raw, factor=1):
         pass
 
-     
+

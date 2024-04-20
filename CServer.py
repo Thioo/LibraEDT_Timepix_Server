@@ -18,8 +18,8 @@ import numpy as np
 import tifffile
 from win32api import GetAsyncKeyState
 
-# from CCameraInterface import CCameraInterface
-from CCameraInterface_Marco import CCameraInterface
+from CCameraInterface import CCameraInterface
+# from CCameraInterface_Marco import CCameraInterface
 
 
 class CServer:

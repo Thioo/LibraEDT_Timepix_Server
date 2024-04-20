@@ -1,7 +1,5 @@
 from CCameraInterface import CCameraInterface
 from CServer import CServer
-
-
 # from CCameraInterface_Marco import CCameraInterface
 
 def main():
